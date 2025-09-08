@@ -14,3 +14,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```` javascript
 var myVar = "Hello, world!";
 ````
+
+Banana bread recipe
+- [ ] 2 eggs
+- [ ] one cup flour
+- [ ] 3 ripened bananas
